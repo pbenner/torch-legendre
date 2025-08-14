@@ -16,10 +16,10 @@ authors = [
 readme = "README.md"
 requires-python = ">=3.9"
 keywords = ["machine learning"]
+license = "MIT"
 license-files = ["LICENSE"]
 classifiers = [
     "Programming Language :: Python :: 3",
-    "License :: OSI Approved :: MIT License",
     "Operating System :: OS Independent"
 ]
 dependencies = [
